@@ -1,0 +1,72 @@
+eventos 
+Que son
+estos son cualquier cambio que ocurre en la pagina sea cual sea un click hasta una carga 
+
+el evento solo nos sirve cuando acompañamos un codigo a este como el de que algo suceda al presionar una tecla
+
+para utilizar los eventos se utiliza un manejador de evento un onclick o mucho mas
+
+
+eventflow
+el orden en el que se ejecutaran los eventos
+dos tipos que se ejecute del mas especifico al menos especifico
+
+lo mas especifico son lo hijos y lo menos especifico es el contenedor al que se le de true se ejecutara primero
+
+event Bubling and event capturing
+
+las burbujas nos ejecutan el codigo por defecto del mas especifico al mas general
+y capturing con true nos modifica el orden
+
+.stopPropagation cortara la propagacion del evento
+
+
+//EVENTOS DEL MOUS//
+
+contextmenu se ejecuta al oprimir click derecho sobre el contenedor
+
+
+//EVENTOS TECLAS
+
+kepress//
+ocurre cuando la tecla se presiona y se suelta en el mismo elemento // este reigistra los dos  tanto keydown como keyup
+
+
+//ELEMENTOS DE LA INTERFAZ
+
+error nos dipara un error cuando se cargan archivos multimedia
+el erro de las distiantas si 
+
+load
+este es cuand un objeto se carga 
+el objeto window no hace falta ser llamado
+
+//beforunload
+esto es antes de que el documento se vaya a otro lugar
+
+//unload es cuando ya te fuste del sitio
+
+//resize 
+este nos dice cuando cambia el tamaño del documento
+
+//scroll
+nos dira cada que se realize scroll en la pantalla
+
+//select 
+occure despues de que el usuario selecciona algun texto de <input> o <textarea>
+
+//temporizadores
+
+estos son los que nos permiten hacer trabajo con tiempo
+
+extisten 4 
+
+setTimeout
+este es un temporizadores desde cuand sucede una accion
+para hacer que no se ejecute se utiliza clearTimeout
+SetInterval
+este se ejecuta una funcion cada dos segundos infinitas veces
+clearTimeout
+elimina el temporizadores
+ClearInterval
+intervalo nos corta la ejecucion 

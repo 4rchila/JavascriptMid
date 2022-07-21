@@ -1,0 +1,26 @@
+.grid-container{
+    display: grid;
+    grid-template-rows: 50px;
+    grid-template-columns: repeat(4,minmax(min-content,max-content));
+    grid-auto-rows: 50px;
+
+}
+
+.grid-container .grid-item{
+padding: 10px;
+border: 1px solid black;
+margin: 5px;
+}
+.button-container{
+    display: flex;
+    width: 45%;
+    justify-items: center;
+}
+.boton{
+        border-radius: 5px;
+        padding: 8px;
+        border: none;
+        margin: 0 auto;
+        background-color: black;
+        color: white;
+}

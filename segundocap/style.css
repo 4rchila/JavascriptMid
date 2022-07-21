@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    color: #222;
+}
+.div-container{
+    background-color: #000;
+    padding: 20px;
+}
+.title-container{
+    color: #fff;    
+}
+.text-container{
+color: #ccc;
+}

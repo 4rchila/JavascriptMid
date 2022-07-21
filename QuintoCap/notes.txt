@@ -1,0 +1,21 @@
+Codigo obsoleto.
+
+¿cuando se vuelve obsoleto
+Deprecated == obsoleto  este sera remplazado en un tiempo
+
+inutil no corre 
+
+no recomendado, no es que no sean inutiles no es recomendado
+esto porque tiene bug o fallos 
+
+esata por ser remplazado es que quede obsoleto
+
+Hay mejores formas de hacerlo
+
+efectos negativos
+se usa esexibamente en grupo
+el codigo tiene bugs o fallos 
+codigo innecesariamente largo 
+seo todo que no se comporta de forma correcta
+
+como verificar si esta obsoleto

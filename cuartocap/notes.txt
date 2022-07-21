@@ -1,0 +1,41 @@
+//FLUJO DE TRABAJO
+
+es como se desarrolle el codigo
+
+cuando se crea un blocke se crea un nuevo ambito de las variables
+tenemos setencia de manejos de esepciones
+
+switch
+
+ve si la variable es igual a algo
+
+//EXEPCIONES
+
+manejar los errores
+cuando nosotros recibimos las esepciones es cuando recibimos un error
+
+
+
+
+//TRY CATCH
+
+Este nos permite manejar el error
+este lee errores de solo una expresion
+este maneja algunos tipos de errores
+nosotros no buscamos errores de sintaxis se buscan errores de un comportamiento que el programador espera
+el CATCH incondicional es aque no tiene una condiion y el condicional alguno que traiga un if o condicional
+sintaxis:
+TRY{
+ dfksdnflsakdjfakl
+}CATCH(error){
+console.log(error
+}
+cuando tenemos errores y usamos TRY CATCH se desactivan los events handleres (eventos de error del DOM)
+typeof define el tipo de dato que le pasamosS
+
+//FINALLY 
+pase lo que pase este se mostrara
+
+//trrow es para tirarnos una esepcion
+
+esto se usa de forma muy unica

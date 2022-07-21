@@ -1,0 +1,3 @@
+Propiedad Window
+
+Window es una de las Propiedad con  mas poder de  javascript esto porque es la que contiene todos los elementos siendo alunos de estos cosas como lo son el dom 

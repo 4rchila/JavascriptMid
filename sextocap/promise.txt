@@ -1,0 +1,11 @@
+promesas
+
+
+Que puede representar?
+Terminacion de una operacion asincrona
+Fracaso de una operacion asincrona
+
+esta es una funcion con tres callbacks
+
+las promesas encampsulan los datos y para acceder a ellos con then()
+then es un metodo que resive un callbacks
