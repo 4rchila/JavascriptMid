@@ -1,0 +1,6 @@
+¿Que es JSON?
+el codigo json es un codigo que nos sirve para transpotar informacion por medio de//https
+para hacer un request que nos 
+
+sintaxis 
+la sintaxis de la misma que un array asociativo de javascript
