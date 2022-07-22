@@ -4,3 +4,25 @@ para hacer un request que nos
 
 sintaxis 
 la sintaxis de la misma que un array asociativo de javascript
+
+este nos sirve para poder estructurar datos
+
+object = (
+'variable1': 'pedro'
+'variable2': 'jorge'
+)
+un json define las variables con comillas
+
+cuando decimos que el json esta serealizado es porque es una cadena de texto
+
+.parse nos deserializa el JSON cuando nosotros recibimos informacion de un 
+
+cuando se quieren enviar datos a un servidor se utiliza el formato json pero para enviarle este debe estar serealizado((convertido en una cadena de strings))
+
+polyfill//estas son funciones que simulan la funcionalidad de cualquier elemento, entre estos un JSON
+no es buena practica utilizar JSON pollyfi
+
+    AJAX
+
+    javascript asincrono
+    
