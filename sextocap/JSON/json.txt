@@ -25,4 +25,49 @@ no es buena practica utilizar JSON pollyfi
     AJAX
 
     javascript asincrono
+    AJAX nos permite trabajar con una pagina en la que el usuario pueda navegar en la pagina sin necesidad de recargar la pagina 
+    ajax no es soportado por todos los navegadores
+
     
+
+
+    XMLHttpRequest()
+
+    esta es la forma de solicitud de alguna api(interactar con servidores)  para la misma utilizamos, esta ocurre por procesos los cuales son del 1 al 4 
+
+se utiliza .send() para enviar la peticion
+
+readystate 1:
+la solicitud se creo correcta mente
+readystate 2:
+la solicitud se envio correctamente y fue recibida correctamente
+readystate 3:
+la solicitud se esta procesando
+readystate 4:
+todo listo se envio una respuesta y el resultado se puede enviar
+
+ActiveXobject()este es una parte para edge y explorer u navegadores que no cuente con windows
+para trabajar con muchos usuarios
+
+los JSON serealizados se convierten en objetos al deserializa
+y cuando enviamos debemos serealizado
+
+solicitudes //GET Y POST
+GET// tu la vez por la url, se guarda en historial 
+POST// no son vizibles, no quedan datos en el historial, no tiene parametros de envio de datos, no tiene restricciones de envio de datos, es mas seguro, porque no muestra la contraseña en la url
+post no guarda informacion, 
+
+FETCH
+forma de trabajar con XMLHttpRequest
+
+basado en promesas// el valor esta encapsulado
+fecht tiene el metodo get por defecto
+
+
+libreria Axios// no nativo
+
+basado en promesas
+axios no biene encapsulado
+
+FETCH & axios con await y async
+
